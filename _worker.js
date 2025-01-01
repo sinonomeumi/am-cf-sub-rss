@@ -19,7 +19,7 @@ let urls = [
 ];
 
 let subConverter = "url.v1.mk";
-let subConfig = "https://raw.githubusercontent.com/amclubs/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini";
+let subConfig = "https://raw.githubusercontent.com/sinonomeumi/sing-box/refs/heads/main/666AdblockPlus.ini";
 let subProtocol = 'https';
 
 export default {
